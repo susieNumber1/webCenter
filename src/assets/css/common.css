@@ -1,0 +1,13 @@
+
+@import "./reset.css";
+@import "./page.css";
+@import "./responsive.css";
+
+.clearfix:after{
+  display: table;
+  content: "";
+  clear: both;
+}
+.clearfix{
+  zoom: 1;
+}

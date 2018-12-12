@@ -1,0 +1,53 @@
+  .pageson-banner img{
+    display: block;
+    width: 100%;
+  }
+  .pageson-main{
+    position: relative;
+    top: -40px;
+    left: 0;
+    width: 80%;
+    margin: 0 auto;
+  }
+  .pageson-title{
+    width: 100%;
+    font-size: 24px;
+    line-height: 30px;
+    color: #193F90;
+    padding: 40px 0 40px 50px;
+    border: 1px solid #E5ECF2;
+    background-color: #fff;
+    box-sizing: border-box;
+  }
+  .pageson-title>p{
+    font-size: 16px;
+  }
+  .menu-content{
+    padding: 50px 50px 0 70px;
+  }
+  .menu-content li{
+    display: inline-block;
+    width: 314px;
+    height: 240px;
+    border: 1px solid #E5ECF2;
+    overflow: hidden;
+    border-radius: 5px;
+    margin: 20px;
+  }
+  .menu-content li img{
+    display: block;
+    width: 314px;
+    height: 180px;
+    border-radius: 5px;
+  }
+  .menu-content li a{
+    display: block;
+    text-align: left;
+    text-indent: 10px;
+    font-size: 16px;
+    line-height:60px;
+    color: #3d3d3d;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }

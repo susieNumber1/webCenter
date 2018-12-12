@@ -1,0 +1,22 @@
+  .menu-content{
+    font-size: 14px;
+    padding: 0;
+  }
+   
+  .step-info{
+    margin-top: 30px;
+  }
+  .step-container{
+    position: relative;
+  }
+  .step-item{
+    margin-bottom: 30px;
+  }
+ 
+   
+  .step-item .step-title span{
+    display: inline-block;
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+  }
